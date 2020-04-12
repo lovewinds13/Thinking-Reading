@@ -6,6 +6,8 @@ My csdn blog：https://blog.csdn.net/wwt18811707971
 
 # 阅读与思考
 
+1. [刘未鹏 | Mind Hacks](http://mindhacks.cn/)
+
 
 
 
