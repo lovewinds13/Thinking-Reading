@@ -8,6 +8,10 @@ My csdn blog：https://blog.csdn.net/wwt18811707971
 
 1. [刘未鹏 | Mind Hacks](http://mindhacks.cn/)
 
+2. [酷 壳 – CoolShell](https://coolshell.cn/)
+
+
+
 
 
 
